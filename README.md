@@ -1,5 +1,5 @@
 # Level-Designs
-Shipped level designs officially added to Team Fortress 2 (Valve Software) and other level designs. 
+Shipped level designs officially added to Team Fortress 2 (Valve Software) and other level designs. \
 View the album of designs on Artstation: https://www.artstation.com/nickybakes/albums/11462751 
 
 [![Cursed Cove thumbnail](https://cdna.artstation.com/p/assets/covers/images/075/426/496/smaller_square/nick-baker-nick-baker-thumbnail.jpg?1714539777) ![Camber Thumbnail](https://cdnb.artstation.com/p/assets/covers/images/070/234/053/smaller_square/nick-baker-nick-baker-thumbnail.jpg?1702048655) ![Steel Heel Jam Level Design thumbnail](https://cdna.artstation.com/p/assets/covers/images/057/963/378/smaller_square/nick-baker-nick-baker-thumbnail.jpg?1673066877) ![Level design thumbnail](https://cdnb.artstation.com/p/assets/covers/images/058/105/619/smaller_square/nick-baker-nick-baker-thumbnail.jpg?1673391454) ![Havana thumbnail](https://cdnb.artstation.com/p/assets/covers/images/058/020/275/smaller_square/nick-baker-nick-baker-thumbnail.jpg?1673220155)](https://www.artstation.com/nickybakes/albums/11462751)
